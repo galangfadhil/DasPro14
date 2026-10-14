@@ -6,3 +6,4 @@ Hasil Uji Studi Kasus 2 oleh <Rizky Eka Pratama>
 | 3  | 3     | 4       | 0          | Tidak  | Ya      |
 | 4  | 4     | 4       | 1          | Berhak | Ya      |
 | 5  | 5     | 4       | -          | Tidak  | Ya      |
+--------------------------------------------------------
