@@ -7,7 +7,7 @@ public class Star14 {
         int n = sc.nextInt();
 
         for (int i = 1; i <= n; i++) {
-            System.out.print("*");
+            System.out.print(i-1 +" ");
         }
         System.out.println();
         sc.close();
